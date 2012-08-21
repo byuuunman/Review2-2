@@ -1,0 +1,86 @@
+public jp.co.dhw.Review2-2
+public class Review2-2{
+public Integer id ;
+public String firstName;
+public String lastName;
+public String shawName(){
+     return this;
+     }
+     public static void main(String[] args){
+     Integer = new Integer id
+     String A = new String firstName();
+     String B = new String lastName();
+
+     String C = new String firstName();
+     String D = new String lastName();
+
+     String E = new String firstName();
+     String F = new String lastName();
+
+     String G = new String firstName();
+     String H = new String lastName();
+
+     String I = new String firstName();
+     String J = new String lastName();
+
+     String K = new String firstName();
+     String L = new String lastName();
+
+     String M = new String firstName();
+     String N = new String lastName();
+
+     String O = new String firstName();
+     String P = new String lastName();
+
+     String Q = new String firstName();
+     String R = new String lastName();
+
+     String S = new String firstName();
+     String T = new String lastName();
+
+
+      A firstName("洋介 ");
+      B lastName("割鞘 ");
+
+      C firstName("恒一 ");
+      D lastName("花田 ");
+
+      E firstName("憲隆 ");
+      F lastName("憲隆 ");
+
+      G firstName("伊織 ");
+      H lastName("柴田");
+
+      I firstName("皆川");
+      J lastName("洋介");
+
+      K firstName("純一 ");
+      L lastName("奈木野 ");
+
+      M firstName("山之内 ");
+      N lastName("洋平 ");
+
+      O firstName("原田 ");
+      P lastName("清司");
+
+      Q firstName("香");
+      R lastName("高木");
+
+      S firstName("内藤");
+      T lastName("初美"); }
+
+      class user {
+      void foo()
+      }
+      public static void main(String[] args){
+       class student extends user {
+
+       }
+
+       class teacher extends user {
+
+       }
+       }
+
+
+       public String subject = new 
